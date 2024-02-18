@@ -2,14 +2,11 @@
 <h1 align="center">Hi 👋, I'm Saif Siddique</h1>
 <h3 align="center">A passionate Data Enthusiast from Bangladesh</h3>
 
+<img align="right" alt="Coding" width="400" src="./github_profile_1.gif">
+
+
+<!--
 <img align="right" alt="Coding" width="400" src="./profile_banner.gif">
-
-
-<!--
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
--->
-<!--
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b8q8gugqelxk5m7y91yk5hyychz400i7vgbulfx2&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 -->
 
 
@@ -19,11 +16,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifsiddique009" alt="saifsiddique009" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **data analytics projects**
+- 🔭 I’m currently working on **Data Engineering Projects**
 
-- 🌱 I’m currently learning **python, numpy, pandas, matplotlib**
+- 🌱 I’m currently learning **Web Scraping, ETL Pipeline, Apache Stacks**
 
-- 👯 I’m looking to collaborate on **data science projects**
+- 👯 I’m looking to collaborate on **Data Projects**
 
 - 📫 How to reach me **saif.siddique009@gmail.com**
 
