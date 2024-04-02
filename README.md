@@ -16,9 +16,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifsiddique009" alt="saifsiddique009" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Data Engineering Projects**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Web Scraping, ETL Pipeline, Apache Stacks**
+- 🌱 I’m currently learning **Deep Learning, Tensorflow, Pytorch**
 
 - 👯 I’m looking to collaborate on **Data Projects**
 
