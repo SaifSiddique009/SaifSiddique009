@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Saif Siddique</h1>
-<h3 align="center">A passionate Data Enthusiast from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="./github_profile_1.gif">
+<img align="right" alt="Coding" width="350" src="./github_profile_1.gif">
 
 
 <!--
@@ -10,30 +9,66 @@
 -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifsiddique009&label=Profile%20views&color=0e75b6&style=flat" alt="saifsiddique009" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifsiddique009&&color=green" alt="saifsiddique009" /> </p>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifsiddique009" alt="saifsiddique009" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **NLP Projects**
 
-- 🌱 I’m currently learning **Deep Learning, Tensorflow, Pytorch**
+- 🌱 I’m currently learning **LLMs, Agentic AI**
 
-- 👯 I’m looking to collaborate on **Data Projects**
+- 👯 I’m looking to collaborate on **Building AI Agents with Real-World Use Cases**
 
-- 📫 How to reach me **saif.siddique009@gmail.com**
+- 📫 Reach me at **saif.siddique009@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saif--siddique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saif--siddique/" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with me via
+  <a href="https://www.linkedin.com/in/saif--siddique/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" width="90" />
+  </a>
+</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## Technologies I use 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifsiddique009&show_icons=true&locale=en&layout=compact" alt="saifsiddique009" /></p>
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <br /> TensorFlow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <br /> Pytorch
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <br /> FastAPI
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
+        </td>
+    </tr>
+</table>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifsiddique009&show_icons=true&locale=en" alt="saifsiddique009" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifsiddique009&layout=compact&&show_icons=true" alt="saifsiddique009" height="250" width="350"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifsiddique009&" alt="saifsiddique009" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifsiddique009&show_icons=true&locale=en" alt="saifsiddique009" height="250" width="350"/></p> -->
+
+<p><img src="https://streak-stats.demolab.com?user=saifsiddique009&border_radius=7&mode=weekly" alt="saifsiddique009" /></p>
+
