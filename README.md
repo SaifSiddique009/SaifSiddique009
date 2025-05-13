@@ -51,6 +51,6 @@ I'm passionate about leveraging Artificial Intelligence to solve real-world prob
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifsiddique009&layout=compact&theme=catppuccin_latte&hide_border=true&show_icons=true&langs_count=8" alt="Top Languages" height="150"/>
      
-  <img src="https://streak-stats.demolab.com?user=saifsiddique009&theme=catppuccin_latte&hide_border=true&border_radius=7&mode=daily" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats-latest.vercel.app?user=saifsiddique009&theme=catppuccin_latte&hide_border=true&border_radius=7&mode=daily" alt="GitHub Streak" height="150"/>
 </p>
 
